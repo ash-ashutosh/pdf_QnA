@@ -1,2 +1,2 @@
 # pdf_QnA
-Upload your pdf and perform question answer 
+Building a ChatGPT App with Retrieval Augmented Generation using Stream.io
